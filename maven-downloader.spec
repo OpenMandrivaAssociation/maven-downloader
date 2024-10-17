@@ -6,7 +6,7 @@ Release:        5.0%{?dist}
 Epoch:          1
 Summary:        Maven artifact downloader
 License:        ASL 2.0
-URL:            http://maven.apache.org/shared/maven-osgi
+URL:            https://maven.apache.org/shared/maven-osgi
 # svn export http://svn.apache.org/repos/asf/maven/shared/tags/maven-downloader-1.1 maven-downloader-1.1
 # tar caf maven-downloader-1.1.tar.xz maven-downloader-1.1/
 Source0:        %{name}-%{version}.tar.xz
